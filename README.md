@@ -1,13 +1,12 @@
 ### Hi, I’m @WwLuo 👋
 
 Here are some ideas to get you started:
-
+- 😄 I'm currently an MSc in Artificial Intelligence and Machine Learning at the University of Birmingham.
 - 🔭 I’m currently working on [react-travel](https://github.com/WwLuo-1024/react-travel)
 - 🌱 I’m currently learning Front-end and Back-end Development and Database
 - 💬 Ask me about ...
 - 📫 How to reach me: Through my Email! wangluocn@outlook.com || Wechat:WangLuo1408
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I am bilingual - fluent in English 🇬🇧, and Chinese Mandarin
 
 ### Github Stats
 [![Luo's github stats](https://github-readme-stats.vercel.app/api?username=WwLuo-1024&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
