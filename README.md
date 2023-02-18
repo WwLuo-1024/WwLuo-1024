@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=WwLuo-1024&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=WwLuo-1024&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **WwLuo-1024/WwLuo-1024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
